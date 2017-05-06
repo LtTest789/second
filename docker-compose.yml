@@ -1,6 +1,7 @@
 version: '2'
 services:
   ws_shop:
+    build: ./ws_shop
     container_name: ws_shop
     entrypoint: ["-jar","/shop-1.0.jar"]
     ports:
