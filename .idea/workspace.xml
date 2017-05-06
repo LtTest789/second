@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3cc94de4-d4f7-41df-a90b-10c391643cdb" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ws_shop/target/ws_shop-1.0.jar" afterPath="$PROJECT_DIR$/ws_shop/target/ws_shop-1.0.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ws_shop/target/ws_shop-1.0.jar.original" afterPath="$PROJECT_DIR$/ws_shop/target/ws_shop-1.0.jar.original" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ws_shop/Dockerfile" afterPath="$PROJECT_DIR$/ws_shop/Dockerfile" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ws_shop/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/ws_shop/target/maven-archiver/pom.properties" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ws_warehouse/Dockerfile" afterPath="$PROJECT_DIR$/ws_warehouse/Dockerfile" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -81,21 +77,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Dockerfile" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Dockerfile" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ws_shop/Dockerfile">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="22" lean-forward="true" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="30" />
+            <state relative-caret-position="85">
+              <caret line="5" column="31" lean-forward="false" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Dockerfile" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Dockerfile" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ws_warehouse/Dockerfile">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="34" lean-forward="false" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="34" />
+            <state relative-caret-position="85">
+              <caret line="5" column="31" lean-forward="false" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
               <folding />
             </state>
           </provider>
@@ -137,8 +133,8 @@
         <option value="$PROJECT_DIR$/ws_shop/pom.xml" />
         <option value="$PROJECT_DIR$/ws_warehouse/pom.xml" />
         <option value="$PROJECT_DIR$/docker-compose.yml" />
-        <option value="$PROJECT_DIR$/ws_shop/Dockerfile" />
         <option value="$PROJECT_DIR$/ws_warehouse/Dockerfile" />
+        <option value="$PROJECT_DIR$/ws_shop/Dockerfile" />
       </list>
     </option>
   </component>
@@ -590,18 +586,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ws_shop/Dockerfile">
+    <entry file="file://$PROJECT_DIR$/ws_warehouse/Dockerfile">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="22" lean-forward="true" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="30" />
+        <state relative-caret-position="85">
+          <caret line="5" column="31" lean-forward="false" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ws_warehouse/Dockerfile">
+    <entry file="file://$PROJECT_DIR$/ws_shop/Dockerfile">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="34" lean-forward="false" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="34" />
+        <state relative-caret-position="85">
+          <caret line="5" column="31" lean-forward="false" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
           <folding />
         </state>
       </provider>
