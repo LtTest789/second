@@ -3,13 +3,13 @@ services:
   ws_shop:
     build: ./ws_shop
     container_name: ws_shop
-    entrypoint: ["-jar","/shop-1.0.jar"]
+#    entrypoint: ["-jar","/shop-1.0.jar"]
     ports:
      - 9000:9000
 
   ws_warehouse:
     build: ./ws_warehouse
     container_name: ws_warehouse
-    entrypoint: ["-jar","/warehouse-1.0.jar"]
+#    entrypoint: ["-jar","/warehouse-1.0.jar"]
     ports:
      - 9001:9001
