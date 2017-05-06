@@ -1,15 +1,12 @@
 version: '2'
 services:
   ws_shop:
-    image: romas/ws_shop
     container_name: ws_shop
-
     entrypoint: ["-jar","/shop-1.0.jar"]
     ports:
      - 9000:9000
 
   ws_warehouse:
-    image: romas/ws_warehouse
     container_name: ws_warehouse
     entrypoint: ["-jar","/warehouse-1.0.jar"]
     ports:
