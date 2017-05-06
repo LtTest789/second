@@ -4,4 +4,4 @@ WORKDIR /code
 COPY *.xml /code/
 COPY src /code/src]
 EXPOSE 9000
-CMD ["java", "-jar", "ws_shop/target/ws_shop-1.0.jar"]
+CMD ["java", "-jar", "ws_shop-1.0.jar"]
