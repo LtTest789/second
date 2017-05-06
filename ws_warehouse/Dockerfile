@@ -5,4 +5,4 @@ COPY *.xml /code/
 COPY src /code/src
 
 EXPOSE 9001
-CMD ["java", "-jar", "target/warehouse-1.0.jar"]
+CMD ["java", "-jar", "target/ws_warehouse-1.0.jar"]
